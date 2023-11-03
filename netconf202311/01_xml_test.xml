@@ -1,0 +1,16 @@
+<data>
+    <a:item xmlns:a="http://www.abc.com/schema1">
+        <name>apple</name>
+        <color>red</color>
+    </a:item>
+    <b:item xmlns:b="http://www.abc.com/schema2">
+        <name>table</name>
+        <length>140</length>
+        <width>70</width>
+    </b:item>
+    <item xmlns="http://www.abc.com/schema3">
+        <name>iphone</name>
+        <capacity>128G</capacity>
+        <color>purple</color>
+    </item>
+</data>
